@@ -1,0 +1,1 @@
+Linux: 1. GCC/Clang installed on system. 2.GLFW3 and Vulkan Libraries installed dynamically using your distro package manager. 3. Any Text or code editior. 4. Vec3.h and Vec3.C Library installed from git repo and linked using its custom path on main.c. https://github.com/Mashpoe/c-vector
